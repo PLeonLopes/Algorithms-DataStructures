@@ -1,0 +1,10 @@
+# IDE FILES (Visual Studio Code)
+/.vscode
+
+# C FILES:
+
+# Ignore object files
+*.o
+
+# Ignore executable files
+*.exe
